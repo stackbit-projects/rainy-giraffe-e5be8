@@ -3,7 +3,7 @@
     "layout": "boxed",
     "style": "classic",
     "palette": "blue",
-    "mode": "light",
+    "mode": "dark",
     "base_font": "serif",
     "header": {
         "title": "DIY",
