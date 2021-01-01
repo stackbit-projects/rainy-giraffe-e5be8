@@ -4,7 +4,7 @@
     "style": "classic",
     "palette": "blue",
     "mode": "dark",
-    "base_font": "sans-serif",
+    "base_font": "serif",
     "header": {
         "title": "DIY",
         "logo": "images/classic/logo.svg",
