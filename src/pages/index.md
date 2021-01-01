@@ -2,7 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: ' Web Design + eCommerce Development – SEO Agency for Businesses and Individuals'
+    title: >-
+      Web Design + eCommerce Development – SEO Agency for Businesses and
+      Individuals
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
