@@ -34,7 +34,8 @@
                 "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link",
-                "has_icon": true
+                "has_icon": true,
+                "icon": "youtube"
             }
         ],
         "has_secondary_nav": true,
